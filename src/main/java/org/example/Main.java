@@ -14,4 +14,8 @@ public class Main {
         System.out.println("something");
 
     }
+
+    private static void someKindOfStuff(){
+        System.out.println("I AM CONFLICTING");
+    }
 }
