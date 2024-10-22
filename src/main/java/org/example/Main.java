@@ -5,7 +5,13 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    private static String somethingOnMasterHappened(){
+
+    private static String somethingOnMasterHappened() {
         return "I HAPPENED";
+    }
+
+    private static void someFeature(){
+        System.out.println("something");
+
     }
 }
